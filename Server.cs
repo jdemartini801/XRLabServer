@@ -95,7 +95,7 @@ public class Server {
             OnNatIntroductionRequest(localEndPoint, remoteEndPoint, token);
         };
 
-        net.Start("155.31.33.239", "", ServerPort);
+        net.Start(ServerPort);
         net.NatPunchModule.Init(natListener);
 
         Console.WriteLine("Server started.");

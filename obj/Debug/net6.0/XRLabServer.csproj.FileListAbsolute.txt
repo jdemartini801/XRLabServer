@@ -12,3 +12,17 @@ D:\Projects\XRLabServer\obj\Debug\net6.0\refint\XRLabServer.dll
 D:\Projects\XRLabServer\obj\Debug\net6.0\XRLabServer.pdb
 D:\Projects\XRLabServer\obj\Debug\net6.0\XRLabServer.genruntimeconfig.cache
 D:\Projects\XRLabServer\obj\Debug\net6.0\ref\XRLabServer.dll
+D:\Projects\XRLabServer\XRLabServer\bin\Debug\net6.0\XRLabServer.exe
+D:\Projects\XRLabServer\XRLabServer\bin\Debug\net6.0\XRLabServer.deps.json
+D:\Projects\XRLabServer\XRLabServer\bin\Debug\net6.0\XRLabServer.runtimeconfig.json
+D:\Projects\XRLabServer\XRLabServer\bin\Debug\net6.0\XRLabServer.dll
+D:\Projects\XRLabServer\XRLabServer\bin\Debug\net6.0\XRLabServer.pdb
+D:\Projects\XRLabServer\XRLabServer\obj\Debug\net6.0\XRLabServer.csproj.AssemblyReference.cache
+D:\Projects\XRLabServer\XRLabServer\obj\Debug\net6.0\XRLabServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\XRLabServer\XRLabServer\obj\Debug\net6.0\XRLabServer.AssemblyInfoInputs.cache
+D:\Projects\XRLabServer\XRLabServer\obj\Debug\net6.0\XRLabServer.csproj.CoreCompileInputs.cache
+D:\Projects\XRLabServer\XRLabServer\obj\Debug\net6.0\XRLabServer.dll
+D:\Projects\XRLabServer\XRLabServer\obj\Debug\net6.0\refint\XRLabServer.dll
+D:\Projects\XRLabServer\XRLabServer\obj\Debug\net6.0\XRLabServer.pdb
+D:\Projects\XRLabServer\XRLabServer\obj\Debug\net6.0\XRLabServer.genruntimeconfig.cache
+D:\Projects\XRLabServer\XRLabServer\obj\Debug\net6.0\ref\XRLabServer.dll

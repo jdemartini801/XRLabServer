@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\XRLabServer\\XRLabServer.csproj": {}
+    "D:\\Projects\\XRLabServer\\XRLabServer\\XRLabServer.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\XRLabServer\\XRLabServer.csproj": {
+    "D:\\Projects\\XRLabServer\\XRLabServer\\XRLabServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\XRLabServer\\XRLabServer.csproj",
+        "projectUniqueName": "D:\\Projects\\XRLabServer\\XRLabServer\\XRLabServer.csproj",
         "projectName": "XRLabServer",
-        "projectPath": "D:\\Projects\\XRLabServer\\XRLabServer.csproj",
+        "projectPath": "D:\\Projects\\XRLabServer\\XRLabServer\\XRLabServer.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\XRLabServer\\obj\\",
+        "outputPath": "D:\\Projects\\XRLabServer\\XRLabServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config"

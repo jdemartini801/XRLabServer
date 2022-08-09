@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0EzuaIk33R0cfJCt1zpJQ5qbBY8z4JZPQPgo03E2IporXT50PO1NRNaE8vfl5plyodQcX0kkHqcCDGT7WDRaLQ==",
+  "dgSpecHash": "q0KKHZ8BkQQzisWUcKKGCiIMNtpcw3ogAVCniN4xqF/IuaVd4NIYJUzDg6v6t7QumptdgCDTO8wptejNdTFBPg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\XRLabServer\\XRLabServer.csproj",
+  "projectFilePath": "D:\\Projects\\XRLabServer\\XRLabServer\\XRLabServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
